@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-bsd-midnight"
-description = "MidnightBSD desktop and mport package integration"
+description = "SigmaOS BSD Midnight - Desktop-oriented BSD with dark theme management"
 version = "0.1.0"
 tier = 4
 
